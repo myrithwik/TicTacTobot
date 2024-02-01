@@ -33,7 +33,7 @@ Explain how to use the project.
 
 ### Image Gallery
 
-1. <img src="images/IMG_4793.jpg" width="500" height="500">
+1. <img src="images/IMG_4793.jpeg" width="500" height="500">
 2. ![Image 2](images/IMG_4794.jpeg)
 3. ![Image 3](images/IMG_4795.jpeg)
 4. ![Image 4](images/IMG_4796.jpeg)
