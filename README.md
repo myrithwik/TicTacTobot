@@ -4,11 +4,8 @@ Automated Tic Tac Toe Robot
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
-- [Contributing](#contributing)
-- [License](#license)
+- [Video Demo](#videodemo)
 
 ## Overview
 
