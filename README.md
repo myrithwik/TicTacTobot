@@ -24,21 +24,21 @@ Main features in this project include:
 <img src="images/IMG_4805.jpeg" width="500" height="500">
 
 - **Stepper Motors to power the gantry**
+<p>Stepper Motors Wiring:</p>
 <img src="images/IMG_4795.jpeg" width="500" height="500">
-<p>Wiring the Stepper Motors</p>
 
 - **Electromagent with Two Channel Relay**
+<p>Electromagnet Connected to Gantry System:</p>
 <img src="images/IMG_4798.jpeg" width="500" height="500">
-<p>Electromagnet Connected to Gantry System</p>
 
+<p>Two Channel Relay Wiring:</p>
 <img src="images/IMG_4796.jpeg" width="500" height="500">
-<p>Two Channel Relay Wiring</p>
 
 - **Hall Effect Sensor Grid**
 <img src="images/IMG_4793.jpeg" alt="Description of the image" width="500" height="500">
 
+<p>Wiring of the Hall Effect sensors:</p>
 <img src="images/IMG_4794.jpeg" width="500" height="500">
-<p>Wiring of the Hall Effect sensors</p>
 
 - **Magnetic Game Pieces**
 - **Gameplay logic coded into the Arduino Uno Microcontroller**
