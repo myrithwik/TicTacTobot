@@ -1,8 +1,5 @@
 # TicTacTobot
 Automated Tic Tac Toe Robot
-# Project Name
-
-Short project description.
 
 ## Table of Contents
 - [Overview](#overview)
