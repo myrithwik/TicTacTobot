@@ -34,14 +34,14 @@ Explain how to use the project.
 ### Image Gallery
 
 1. <img src="images/IMG_4793.jpeg" width="500" height="500">
-2. ![Image 2](images/IMG_4794.jpeg)
-3. ![Image 3](images/IMG_4795.jpeg)
-4. ![Image 4](images/IMG_4796.jpeg)
-5. ![Image 5](images/IMG_4797.jpeg)
-6. ![Image 6](images/IMG_4798.jpeg)
-7. ![Image 7](images/IMG_4801.jpeg)
-8. ![Image 8](images/IMG_4803.jpeg)
-9. ![Image 9](images/IMG_4805.jpeg)
+2. <img src="images/IMG_4794.jpeg" width="500" height="500">
+3. <img src="images/IMG_4795.jpeg" width="500" height="500">
+4. <img src="images/IMG_4796.jpeg" width="500" height="500">
+5. <img src="images/IMG_4797.jpeg" width="500" height="500">
+6. <img src="images/IMG_4798.jpeg" width="500" height="500">
+7. <img src="images/IMG_4801.jpeg" width="500" height="500">
+8. <img src="images/IMG_4803.jpeg" width="500" height="500">
+9. <img src="images/IMG_4805.jpeg" width="500" height="500">
 
 ### Video Demo
 
