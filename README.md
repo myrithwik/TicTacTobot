@@ -5,7 +5,7 @@ Automated Tic Tac Toe Robot
 - [Overview](#overview)
 - [Features](#features)
 - [Usage](#usage)
-- [Video Demo](#videodemo)
+- [Demo](#demo)
 
 ## Overview
 
@@ -44,7 +44,7 @@ Main features in this project include:
 
 The stepper motors are used to control the T-gantry system. The electromagnet is connected on top of the gantry so that it can be moved under the game board. The magnet will be switched on and off using the two channel relay to move the magnetic game pieces. The board itself has strategically placed hall effect sensors to detect where game pieces are placed. This data is sent back to the Arduino Uno which keeps track of the board status and programatically determined the CPU's next move which is carried out by the gantry and electromagnet.
 
-### Video Demo
+## Demo
 
 [![Watch the Demo Video](images/thumbnail.jpg)](images/IMG_4790.MOV)
 
