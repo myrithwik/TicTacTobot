@@ -21,6 +21,10 @@ Main features in this project include:
 - Stepper Motors to power the gantry
 - Electromagent with Two Channel Relay
 - Hall Effect Sensor Grid
+- <figure>
+  <img src="images/IMG_4793.jpeg" alt="Description of the image" width="500" height="500">
+  <figcaption>Hall Effect Sensors</figcaption>
+</figure>
 - Magnetic Game Pieces
 - Gameplay logic coded into the Arduino Uno Microcontroller
 
